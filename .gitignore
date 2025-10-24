@@ -1,0 +1,9 @@
+.env
+*.properties
+/node_modules
+/dist
+/.idea
+*.log
+gestpro-backend/src/main/resources/application.properties
+gestpro-backend/src/main/resources/application-prod.properties
+gestpro-backend/src/main/resources/application-dev.properties
